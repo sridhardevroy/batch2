@@ -1,0 +1,49 @@
+ 1  apt-get update
+    2  sudo apt-get install apache2
+    3  apt-get install apache2
+    4  service apache2 start
+    5  service apache2 stop
+    6  exit
+    7  docker ps
+    8  ll
+    9  apt-get install git
+   10  git --version
+   11  exit
+   12  git --version
+   13  history
+root@f6d266d4874e:/# cd ..
+root@f6d266d4874e:/# exit
+exit
+root@ip-172-31-93-4:/home/ubuntu# history
+    1  pwd
+    2  su ubuntu
+    3  pwd
+    4  yum install ansible
+    5  apt install yum
+    6  apt-get install docker-io
+    7  docker --version
+    8  service docker status
+    9  service docker start
+   10  service docker status
+   11  docker i,ges
+   12  docker images
+   13  docker ps
+   14  docker ps -a
+   15  docker start -i -a 38fbf1191092
+   16  docker ps
+   17  docker ps -a
+   18  docker commit 38fbf1191092
+   19  docker push sridhardevroy/sridhar:new
+   20  docker images
+   21 
+   22  history
+   23  docker ps -a
+   24  docker commit 38fbf1191092 sridhardevroy/sridhar:2
+   25  docker push sridhardevroy/sridhar:2
+   26  docker login
+   27  docker push sridhardevroy/sridhar:2
+   28  docker pull sridhardevroy/sridhar:tagname
+   29  docker imges
+   30  docker images
+   31  docker run -t -i 4f51ce9b7328
+   32  history
